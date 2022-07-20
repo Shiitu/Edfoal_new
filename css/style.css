@@ -344,8 +344,8 @@ ol, li {
   }
 } */
 .sidebar {
-  width: 25%;
-  height: 70vh;
+  width: 10%;
+  height: 100vh;
   min-height: 100px;
   overflow: auto;
   position: -webkit-sticky;
@@ -353,8 +353,8 @@ ol, li {
   top: 5%;
 }
 .main {
-  width: 60%;
-  height: 100vh;
+  width: 80%;
+  /* height: 500vh; */
   min-height: 1000px;
   display: flex;
   flex-direction: column;
